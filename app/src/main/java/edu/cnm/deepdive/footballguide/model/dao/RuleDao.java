@@ -16,6 +16,6 @@ public interface RuleDao {
 
 
   @Query("SELECT * FROM Rule")
-  Rule findSelect(Rule rule);
+  List<Rule> findSelect();
 
 }
