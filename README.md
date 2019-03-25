@@ -19,3 +19,5 @@ find what they want to know easily.
 
 * There are not current plans to have it access the internet at the moment, however
 it might be useful to have links to videos or maybe even headlines for sports related news.
+
+*see [Javadoc](docs/api/). for Java documentation.

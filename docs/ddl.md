@@ -1,0 +1,3 @@
+```sql(docs/ddl.md)
+
+```
